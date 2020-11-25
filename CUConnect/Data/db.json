@@ -791,27 +791,5 @@
         "-nan"
       ],
       "connections": []
-    },
-    {
-      "name": "Scott Lang",
-      "username": "slang",
-      "password": "ed256568ab28e896f3b067ff1407117f2e9735c37bb93d864444d57049ef2201",
-      "UID": 2,
-      "email": "slang@clemson.edu",
-      "classes": [
-        "CPSC 4200",
-        "CPSC 3220",
-        "CPSC 2810",
-        "-nan",
-        "-nan"
-      ],
-      "hobbies": [
-        "Ping Pong",
-        "Board Games",
-        "Virtual Reality",
-        "Coding",
-        "-nan"
-      ],
-      "connections": []
-    }
+      }
   ]
