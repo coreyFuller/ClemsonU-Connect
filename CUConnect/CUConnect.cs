@@ -1,15 +1,37 @@
 using System;
+using CUConnect.Models;
+using System.Collections.Generic;
 
 namespace CUConnect
 {
     public class CUConnect
     {
-        public DateTime Date { get; set; }
+        public List<Student> AllStudents { get; set; }
+        public Student MatchStudent { get; set; }
 
-        public int TemperatureC { get; set; }
+        public CUConnect(List<Student> students, Student student)
+        {
+            AllStudents = students;
+            MatchStudent = student;
+        }
 
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+        public double CalculateDistance(Student A, Student B)
+        {
+            double totalDistance = 0;
 
-        public string Summary { get; set; }
+
+
+            return totalDistance;
+        }
+
+        public void MatchStudents()
+        {
+
+        }
+
+        public void Display()
+        {
+
+        }
     }
 }
