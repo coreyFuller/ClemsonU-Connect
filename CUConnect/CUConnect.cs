@@ -45,6 +45,7 @@ namespace CUConnect
 
         public void Display()
         {
+            Console.WriteLine(MatchStudent);
 
         }
     }
