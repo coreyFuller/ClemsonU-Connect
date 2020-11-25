@@ -1,0 +1,817 @@
+
+  [
+    {
+      "name": "Ashton Sobeck",
+      "username": "asobeck",
+      "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "UID": 2,
+      "email": "asobeck@clemson.edu",
+      "classes": [
+        "CPSC 3600",
+        "CPSC 4620",
+        "CPSC 3720",
+        "CPSC 2810",
+        "CPSC 2310"
+      ],
+      "hobbies": [
+        "Esports",
+        "Ping Pong",
+        "Bowling",
+        "Track",
+        "Golf"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Tony Stark",
+      "username": "tsark",
+      "password": "b3a8e0e1f9ab1bfe3a36f231f676f78bb30a519d2b21e6c530c0eee8ebb4a5d0",
+      "UID": 2,
+      "email": "tstark@clemson.edu",
+      "classes": [
+        "CPSC 1010",
+        "-nan",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Virtual Reality",
+        "Music/Music Production",
+        "Track",
+        "Videogames",
+        "Coding"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Thanos Purp",
+      "username": "tpurp",
+      "password": "35a9e381b1a27567549b5f8a6f783c167ebf809f1c4d6a9e367240484d8ce281",
+      "UID": 2,
+      "email": "tpurp@clemson.edu",
+      "classes": [
+        "CPSC 3600",
+        "CPSC 4620",
+        "CPSC 3720",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Ping Pong",
+        "Bowling",
+        "Golf",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Natasha Widow",
+      "username": "bwidow",
+      "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+      "UID": 2,
+      "email": "bwidow@clemson.edu",
+      "classes": [
+        "CPSC 1020",
+        "CPSC 2070",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Baseball",
+        "Soccer",
+        "Rowing",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Hawk Eye",
+      "username": "hwkeye",
+      "password": "353767b239099863e13ca954e20a66c9d75f777baf239f56e399958de49bf79d",
+      "UID": 2,
+      "email": "hwkeye@clemson.edu",
+      "classes": [
+        "CPSC 2120",
+        "CPSC 2150",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Fencing",
+        "Photography",
+        "Field Hockey",
+        "Frisbee",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Peter Parker",
+      "username": "pparker",
+      "password": "6edf4aafcf3dc1a4a45b34a6120d4529e279007f46f0f0c25710c2a583cfefbf",
+      "UID": 2,
+      "email": "pparker@clemson.edu",
+      "classes": [
+        "CPSC 3600",
+        "CPSC 4620",
+        "CPSC 3720",
+        "CPSC 2810",
+        "CPSC 2310"
+      ],
+      "hobbies": [
+        "Esports",
+        "Photography",
+        "Bowling",
+        "Track",
+        "Golf"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Peter Quill",
+      "username": "pquill",
+      "password": "e8dedb66d09f7dc99e0b23aaa87f267823e17bdf3cc2ad30533e3a38340e0f8b",
+      "UID": 2,
+      "email": "pquill@clemson.edu",
+      "classes": [
+        "CPSC 1070",
+        "CPSC 2310",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Skateboarding",
+        "Board Games",
+        "Playing Music",
+        "-nan",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Matt Murdock",
+      "username": "mmdock",
+      "password": "2b3baf9bf9df0480f227727066d28e96cce3a1d04dbd0a415044791bf4520712",
+      "UID": 2,
+      "email": "mmdock@clemson.edu",
+      "classes": [
+        "CPSC 4240",
+        "CPSC 4910",
+        "CPSC 4820",
+        "CPSC 2920",
+        "-nan"
+      ],
+      "hobbies": [
+        "Skateboarding",
+        "Hockey",
+        "Martial Arts",
+        "Bowling",
+        "Cheerleading"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Wade Wilson",
+      "username": "dpool",
+      "password": "0a2341af5a30bd9e08055274f6947452ed6169115e99018a577cdab01652f576",
+      "UID": 2,
+      "email": "dpool@clemson.edu",
+      "classes": [
+        "CPSC 3220",
+        "CPSC 3720",
+        "CPSC 4620",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Virtual Reality",
+        "Videogames",
+        "Coding",
+        "-nan",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Steven Strange",
+      "username": "sstrange",
+      "password": "9028dce6614eb1f7a5fdc2f564f671475cae5cec22ae87054199bf38034e0595",
+      "UID": 2,
+      "email": "sstrange@clemson.edu",
+      "classes": [
+        "CPSC 1060",
+        "CPSC 2070",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Skateboarding",
+        "Esports",
+        "Track",
+        "Golf",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Dor Mammu",
+      "username": "dmammu",
+      "password": "aaa33494ff99c63dc886c7428074b7eeab29bc647c225bef81e283a10f30f25e",
+      "UID": 2,
+      "email": "dmammu@clemson.edu",
+      "classes": [
+        "CPSC 2070",
+        "CPSC 1070",
+        "CPSC 2310",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Cross-Country",
+        "Archery",
+        "Photography",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Drax Drax",
+      "username": "drax",
+      "password": "3133386077078a7f8a06d14cc0c86564734b7fd776674439b4f4ec144a0383ad",
+      "UID": 2,
+      "email": "drax@clemson.edu",
+      "classes": [
+        "CPSC 1060",
+        "-nan",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Videogames",
+        "Movies",
+        "Archery",
+        "Robotics",
+        "Virtual Reality"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Frank Castle",
+      "username": "fcastle",
+      "password": "8f2514413bc5af0acba8e2722b84d5a0bdc0cedfb13e75147b8c127a9e545fdb",
+      "UID": 2,
+      "email": "fcastle@clemson.edu",
+      "classes": [
+        "CPSC 3220",
+        "CPSC 4620",
+        "CPSC 3720",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Track",
+        "Ping Pong",
+        "Robotics",
+        "Videogames",
+        "Movies"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Gamora G",
+      "username": "gmora",
+      "password": "360acfeb7e54baf53a9cd55dcbd317a0693e1349963cbe2a9c7195220720b39b",
+      "UID": 2,
+      "email": "gmora@clemson.edu",
+      "classes": [
+        "CPSC 1070",
+        "CPSC 2070",
+        "CPSC 2310",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Golf",
+        "-nan",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Johnny Blaze",
+      "username": "grider",
+      "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+      "UID": 2,
+      "email": "grider@clemson.edu",
+      "classes": [
+        "CPSC 3710",
+        "CPSC 4620",
+        "CPSC 3720",
+        "CPSC 4240",
+        "CPSC 2310"
+      ],
+      "hobbies": [
+        "Ping Pong",
+        "Lacrosse",
+        "Cross-Country",
+        "Rowing",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Gwen Stacy",
+      "username": "gstacy",
+      "password": "9931f287c490c56245bbf2e049ff20408f52e6488244a887b089bf5a5e3ed4b2",
+      "UID": 2,
+      "email": "gstacy@clemson.edu",
+      "classes": [
+        "CPSC 2150",
+        "CPSC 2120",
+        "CPSC 2310",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Photography",
+        "Track",
+        "Videogames",
+        "Lacrosse"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Bruce Banner",
+      "username": "bbanner",
+      "password": "59da0f92fb590aba1b87ccdb61675401c90ca5edae5be8620f73fb2ad51ebe57",
+      "UID": 2,
+      "email": "asobeck@clemson.edu",
+      "classes": [
+        "CPSC 1020",
+        "CPSC 2310",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Videogames",
+        "Photography",
+        "Track",
+        "Basketball"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Jean Grey",
+      "username": "jgrey",
+      "password": "a42926018b09f43540ff3beaf109d34f2f15e48b690d43ce93fd81fd1325c0ea",
+      "UID": 2,
+      "email": "jgrey@clemson.edu",
+      "classes": [
+        "CPSC 3220",
+        "CPSC 4620",
+        "CPSC 3720",
+        "CPSC 2310",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Ping Pong",
+        "Bowling",
+        "-nan",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Erik Killmonger",
+      "username": "ekmonge",
+      "password": "17d30b9a2e6f98d38269afa72c4b1b8b0a2dd9447beda595a0ef903238eeeee3",
+      "UID": 2,
+      "email": "ekmonge@clemson.edu",
+      "classes": [
+        "CPSC 3600",
+        "CPSC 3220",
+        "CPSC 3720",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Archery",
+        "Robotics",
+        "Golf",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "T Challa",
+      "username": "tchalla",
+      "password": "6a700fe0c3712fcb85314ae53b0f5c757d79f3a25cc1ec0e46ec6de973ad4c56",
+      "UID": 2,
+      "email": "tchalla@clemson.edu",
+      "classes": [
+        "CPSC 4820",
+        "CPSC 4620",
+        "CPSC 3220",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Ping Pong",
+        "Virtual Reality",
+        "Baseball",
+        "Volleyball"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Loki Odinson",
+      "username": "lodinso",
+      "password": "dd64f2a506196a7eb1e21e7a160bccf41367828e74b3466a6980c069f7318d6b",
+      "UID": 2,
+      "email": "lodinso@clemson.edu",
+      "classes": [
+        "CPSC 1010",
+        "CPSC 2070",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Ping Pong",
+        "Archery",
+        "Movies",
+        "Coding"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Thor Odinson",
+      "username": "todinso",
+      "password": "e0a19cbdac9fda12364d4353c5942c736640bc88336f96e2e771dd19d6752660",
+      "UID": 2,
+      "email": "todinso@clemson.edu",
+      "classes": [
+        "CPSC 1070",
+        "CPSC 2810",
+        "CPSC 2310",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Photography",
+        "Coding",
+        "Basketball",
+        "Track",
+        "Golf"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Luke Cage",
+      "username": "lcage",
+      "password": "9c9bf1925176bc911a121170a07f01b0894e0e3d4b55f471fd679f92d1473d6a",
+      "UID": 2,
+      "email": "lcage@clemson.edu",
+      "classes": [
+        "CPSC 3220",
+        "CPSC 4620",
+        "CPSC 3220",
+        "CPSC 2810",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Baseball",
+        "Virtual Reality",
+        "Robotics",
+        "Movies"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Eric Lehnsherr",
+      "username": "elehnsh",
+      "password": "bb1b6fc3786779397cc37955463333a10348047a2d45dbaf93c477a13b2d067b",
+      "UID": 2,
+      "email": "elehnsh@clemson.edu",
+      "classes": [
+        "CPSC 1020",
+        "CPSC 2070",
+        "CPSC 2810",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Archery",
+        "Videogames",
+        "Virtual Reality",
+        "-nan",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Nick Fury",
+      "username": "nfury",
+      "password": "7085d49d63be30816e4f75e5cf4ca21bff0036838de50ba827b30044f4a7c54c",
+      "UID": 2,
+      "email": "nfury@clemson.edu",
+      "classes": [
+        "CPSC 3220",
+        "CPSC 4620",
+        "CPSC 4820",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Robotics",
+        "Ping Pong",
+        "Videogames",
+        "Archery",
+        "Golf"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Foggy Nelson",
+      "username": "fnelson",
+      "password": "051c2e380d07844ffaca43743957f8c0efe2bdf74c6c1e6a9dcccb8d1a3c596b",
+      "UID": 2,
+      "email": "fnelson@clemson.edu",
+      "classes": [
+        "CPSC 2070",
+        "CPSC 1070",
+        "CPSC 2810",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Ping Pong",
+        "Bowling",
+        "Track",
+        "Golf"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Pepper Potts",
+      "username": "ppotts",
+      "password": "57cb095760a7a749c48c486c1f99f2b8e4518fd4c54e292c9be04c5940aacb85",
+      "UID": 2,
+      "email": "ppotts@clemson.edu",
+      "classes": [
+        "CPSC 1020",
+        "CPSC 2070",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Basketball",
+        "Movies",
+        "Coding",
+        "Track"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Phil Coulson",
+      "username": "pcoulson",
+      "password": "e7894ea75f3005f52f2d8633ea51f624831ff19f13d7456c4ce2750934859d8e",
+      "UID": 2,
+      "email": "pcoulson@clemson.edu",
+      "classes": [
+        "CPSC 3600",
+        "CPSC 4620",
+        "CPSC 3220",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Frisbee",
+        "Football",
+        "Music/Music Production",
+        "Track",
+        "Coding"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Rocket Raccoon",
+      "username": "rraccoo",
+      "password": "3ef785f0d50583e941095a6a9af15386e943386017a3d08a41134e4ced38b0d0",
+      "UID": 2,
+      "email": "rraccoo@clemson.edu",
+      "classes": [
+        "CPSC 1010",
+        "-nan",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Football",
+        "Swimming",
+        "Videogames",
+        "Golf",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Groot Groot",
+      "username": "groot",
+      "password": "2e38f2233ed71ebddb0a017f3709568081eae84fcd1dbecd94790fc54bd65401",
+      "UID": 2,
+      "email": "groot@clemson.edu",
+      "classes": [
+        "CPSC 3220",
+        "CPSC 4620",
+        "CPSC 4200",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Esports",
+        "Movies",
+        "Swimming",
+        "Football",
+        "Virtual Reality"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Ultron U",
+      "username": "ultron",
+      "password": "5c3b461b1aa3cbcaf6953fdd72e963b709f7126ea8a8eed872318d6262885ba3",
+      "UID": 2,
+      "email": "ultron@clemson.edu",
+      "classes": [
+        "CPSC 4200",
+        "CPSC 4620",
+        "CPSC 4910",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Chess",
+        "Ping Pong",
+        "Videogames",
+        "Movies",
+        "Virtual Reality"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Stan Lee",
+      "username": "stanlee",
+      "password": "e739c639ea2892b53e9f6768a50ba1dabda190ed786969bc4ab7bb4ef94d73d0",
+      "UID": 2,
+      "email": "stanlee@clemson.edu",
+      "classes": [
+        "CPSC 3600",
+        "CPSC 4620",
+        "CPSC 3220",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Chess",
+        "Ping Pong",
+        "Cooking",
+        "Archery",
+        "Drawing/Art"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Venom V",
+      "username": "venomv",
+      "password": "bed6aa520068f726c10cd4fa94d85e5f03bdc3a8875c57c537ad984ef99b0781",
+      "UID": 2,
+      "email": "venomv@clemson.edu",
+      "classes": [
+        "CPSC 1010",
+        "-nan",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Martial Arts",
+        "Cooking",
+        "Playing Music",
+        "-nan",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Victor VonDoom",
+      "username": "vondoom",
+      "password": "78967417fd0979450bb8f58b3aa11195e9dffe8037e07b3c63f9581efd8ceebf",
+      "UID": 2,
+      "email": "vondoom@clemson.edu",
+      "classes": [
+        "CPSC 4200",
+        "CPSC 4620",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Videogames",
+        "Ping Pong",
+        "Coding",
+        "Skateboarding",
+        "Golf"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Silver Surfer",
+      "username": "ssurfer",
+      "password": "947b645dbae560eab45d010ff30eb7aa8578cee701ce805581d6c947cc4c9c9c",
+      "UID": 2,
+      "email": "ssurfer@clemson.edu",
+      "classes": [
+        "CPSC 3600",
+        "CPSC 4200",
+        "CPSC 4910",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Skateboarding",
+        "Ping Pong",
+        "Hockey",
+        "Chess",
+        "Board Games"
+      ],
+      "connections": []
+    },
+    {
+      "name": "James Rhodes",
+      "username": "jrhodes",
+      "password": "c36f246b8ee2a786df754849725a14462c49963b0ed582bf4b08ec086234c805",
+      "UID": 2,
+      "email": "jrhodes@clemson.edu",
+      "classes": [
+        "CPSC 4200",
+        "CPSC 3220",
+        "-nan",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Cooking",
+        "Martial Arts",
+        "Board Games",
+        "Coding",
+        "-nan"
+      ],
+      "connections": []
+    },
+    {
+      "name": "Scott Lang",
+      "username": "slang",
+      "password": "ed256568ab28e896f3b067ff1407117f2e9735c37bb93d864444d57049ef2201",
+      "UID": 2,
+      "email": "slang@clemson.edu",
+      "classes": [
+        "CPSC 4200",
+        "CPSC 3220",
+        "CPSC 2810",
+        "-nan",
+        "-nan"
+      ],
+      "hobbies": [
+        "Ping Pong",
+        "Board Games",
+        "Virtual Reality",
+        "Coding",
+        "-nan"
+      ],
+      "connections": []
+    }
+  ]
