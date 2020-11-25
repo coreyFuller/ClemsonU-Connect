@@ -15,6 +15,8 @@ namespace CUConnect.Controllers
     public class CUConnectController : ControllerBase
     {
 
+        public List<Student> students = null;
+
         private readonly ILogger<CUConnectController> _logger;
 
         public CUConnectController(ILogger<CUConnectController> logger)
@@ -27,15 +29,18 @@ namespace CUConnect.Controllers
         {
             StreamReader r = new StreamReader(@"C:\Users\corey\Desktop\CUConnect\CUConnect\Data\db.json");
             string json = r.ReadToEnd();
-            List<Student> students = JsonConvert.DeserializeObject<List<Student>>(json);
+            students = JsonConvert.DeserializeObject<List<Student>>(json);
             return students;
         }
 
         [HttpPost]
         public void Post([FromBody] Student student)
         {
-            int x = 1;
-            Console.WriteLine(student.ToString());
+            StreamReader r = new StreamReader(@"C:\Users\corey\Desktop\CUConnect\CUConnect\Data\db.json");
+            string json = r.ReadToEnd();
+            students = JsonConvert.DeserializeObject<List<Student>>(json);
+            CUConnect connector = new CUConnect(students, student);
+            connector.MatchStudents();
         }
     }
 }
