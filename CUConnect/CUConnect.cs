@@ -3,8 +3,6 @@ using CUConnect.Models;
 using System.Collections.Generic;
 using Newtonsoft.Json;
 using System.IO;
-using System.Linq;
-using System.Collections;
 
 namespace CUConnect
 {
@@ -20,10 +18,10 @@ namespace CUConnect
         public CUConnect(List<DataStudent> students, DataStudent student, List<Student> original)
         {
             users = new Dictionary<string, Student>();
-            StreamReader r = new StreamReader(@"C:\Users\corey\Desktop\CUConnect\CUConnect\Data\classes.json");
+            StreamReader r = new StreamReader(@"..\CUConnect\Data\classes.json");
             string json = r.ReadToEnd();
             classes = JsonConvert.DeserializeObject<Dictionary<string, int>>(json);
-            r = new StreamReader(@"C:\Users\corey\Desktop\CUConnect\CUConnect\Data\hobbies.json");
+            r = new StreamReader(@"..\CUConnect\Data\hobbies.json");
             json = r.ReadToEnd();
             hobbies = JsonConvert.DeserializeObject<Dictionary<string, int>>(json);
             AllStudents = students;
@@ -59,7 +57,7 @@ namespace CUConnect
             foreach (DataStudent student in AllStudents){
                 student.totalDistance += CalculateDistance(Student_to_match, student);
             }
-            AllStudents.Sort((y, x) => x.totalDistance.CompareTo(y.totalDistance));
+            AllStudents.Sort((x, y) => x.totalDistance.CompareTo(y.totalDistance));
             List<DataStudent> concat = new List<DataStudent>();
             for( int i =0; i < 5; i++)
             {

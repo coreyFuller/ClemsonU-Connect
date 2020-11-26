@@ -27,7 +27,8 @@ namespace CUConnect.Controllers
         [HttpGet]
         public List<Student> Get()
         {
-            StreamReader r = new StreamReader(@"C:\Users\corey\Desktop\CUConnect\CUConnect\Data\db.json");
+            string path = @"..\CUConnect\Data\db.json";
+            StreamReader r = new StreamReader(path);
             string json = r.ReadToEnd();
             students = JsonConvert.DeserializeObject<List<Student>>(json);
             return students;
@@ -36,7 +37,8 @@ namespace CUConnect.Controllers
         [HttpPost]
         public List<Student> Post([FromBody] Student student)
         {
-            StreamReader r = new StreamReader(@"C:\Users\corey\Desktop\CUConnect\CUConnect\Data\db.json");
+            string path = @"..\CUConnect\Data\db.json";
+            StreamReader r = new StreamReader(path);
             string json = r.ReadToEnd();
             students = JsonConvert.DeserializeObject<List<Student>>(json);
             List<DataStudent> newStudentList = new List<DataStudent>();
