@@ -34,13 +34,21 @@ namespace CUConnect.Controllers
         }
 
         [HttpPost]
-        public void Post([FromBody] Student student)
+        public List<Student> Post([FromBody] Student student)
         {
             StreamReader r = new StreamReader(@"C:\Users\corey\Desktop\CUConnect\CUConnect\Data\db.json");
             string json = r.ReadToEnd();
             students = JsonConvert.DeserializeObject<List<Student>>(json);
-            CUConnect connector = new CUConnect(students, student);
-            connector.MatchStudents();
+            List<DataStudent> newStudentList = new List<DataStudent>();
+            foreach(Student s in students)
+            {
+                DataStudent data = new DataStudent(s.Uid, s.Username, 0, 0, s.Hobbies, s.Classes);
+                newStudentList.Add(data);
+
+            }
+            DataStudent ds = new DataStudent(student.Uid, student.Username, 0, 0, student.Hobbies, student.Classes);
+            CUConnect connector = new CUConnect(newStudentList, ds, students);
+            return connector.MatchStudents();
         }
     }
 }

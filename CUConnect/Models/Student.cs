@@ -18,7 +18,7 @@ namespace CUConnect.Models
         public string Password { get; set; }
 
         [JsonProperty("UID")]
-        public long Uid { get; set; }
+        public int Uid { get; set; }
 
         [JsonProperty("email")]
         public string Email { get; set; }
