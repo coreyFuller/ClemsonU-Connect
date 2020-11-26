@@ -76,6 +76,8 @@ namespace CUConnect
             {
                 finalList.Add((Student)users[s.username]);
             }
+
+            AllStudents.Add(Student_to_match);
             return finalList;
         }
     }
